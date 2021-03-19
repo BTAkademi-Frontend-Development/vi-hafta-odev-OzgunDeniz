@@ -6,6 +6,7 @@
 - 'return' ve 'console.log' arasındaki farkı açıklayınız. Örneklerle destekleyiniz.
 
 *JavaScript'te primitive types ve reference types kavramlarını araştırınız. Bu sınıflandırmalara dahil olan türleri sıralayınız.*
+
   -js2.js ve index2.html adı altında oluşturduğum dosyalar da örnekler ve kodlar vardır.
 
 - 'for in' ve 'for of' döngülerini açıklayınız ve örneklerle destekleyiniz.
