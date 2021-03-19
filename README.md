@@ -9,6 +9,11 @@
 
   -js2.js ve index2.html adı altında oluşturduğum dosyalar da örnekler ve kodlar vardır.
 
-- 'for in' ve 'for of' döngülerini açıklayınız ve örneklerle destekleyiniz.
+*'for in' ve 'for of' döngülerini açıklayınız ve örneklerle destekleyiniz.*
+ 
+-js3.js ve index3.html adı altında oluşturduğum dosyalar da örnekler ve kodlar vardır.
 
-- 'for' ve 'while' döngüleri ile ilgili örnekler yapınız.
+*'for' ve 'while' döngüleri ile ilgili örnekler yapınız.*
+
+-js3.js ve index3.html adı altında oluşturduğum dosyalar da örnekler ve kodlar vardır.
+
