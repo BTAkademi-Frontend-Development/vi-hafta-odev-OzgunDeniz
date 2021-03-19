@@ -2,7 +2,8 @@
 programcının özellikleri isim, yaş,mail bildiği diller ve adress,
 birde work adında metodu olsun ;
 (**obje süslü parantez ile tanımlanır)*/
-
+// objeler iki yöntemle oluşturulabilir,
+//1. yöntem Object Literal ;
 let value;
 
 const programmer ={
@@ -49,4 +50,14 @@ value = programmers[0].name ; // Özgün Deniz değeri
 console.log(value);
 
 
+//2. Yöntem New anahtar sözcüğü kullanılarak ;
+var  person= new Object();
+person.firstName = "Özgün Deniz";
+person.age= 25 ;
+person.email = "ozgundenz@gmail.com"
 
+console.log(person);
+
+// 2 yöntemde aynı fakat ilk olan daha kolay ve tercih edilen.
+
+//JAVASCRİPT METODLARI
